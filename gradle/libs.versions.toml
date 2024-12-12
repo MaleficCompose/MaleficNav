@@ -5,7 +5,7 @@ snakeyaml = "2.3"
 gson = "2.11.0"
 kermit = "2.0.5"
 central = "1.2.5"
-maleficextensions = "1.1.4"
+maleficextensions = "1.1.5"
 dokka = "1.9.20"
 
 [libraries]
